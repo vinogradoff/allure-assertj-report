@@ -1,0 +1,7 @@
+target
+
+.idea
+.allure
+
+### Mac OS ###
+.DS_Store
